@@ -1,3 +1,7 @@
+git config --global user.name "NAME"
+
+git config --global user.email "email@email.com"
+
 $ pwd
 
 $ cd ..
